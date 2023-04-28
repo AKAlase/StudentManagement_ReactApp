@@ -1,0 +1,49 @@
+{
+  "student": [
+    {
+      "email": "akshay@gmail.com",
+      "name": "Akshay ",
+      "phoneno": "88888888",
+      "fees": "No",
+      "gender": "Male",
+      "department": "BCA",
+      "id": 1
+    },
+    {
+      "email": "amit0102@gmail.com",
+      "name": "Amit",
+      "phoneno": "8888730678",
+      "fees": "Yes",
+      "gender": "Male",
+      "department": "BBA",
+      "id": 2
+    },
+    {
+      "email": "ramesh@gmail.com",
+      "name": "Ramesh",
+      "phoneno": "8899999090",
+      "fees": "Yes",
+      "gender": "Male",
+      "department": "BCOM",
+      "id": 3
+    },
+    {
+      "email": "pratik@gmail.com",
+      "name": "Pratik",
+      "phoneno": "9021906767",
+      "fees": "Yes",
+      "gender": "Male",
+      "department": "BCA",
+      "id": 4
+    },
+    {
+      "email": "nikhil@gmail.com",
+      "name": "Nikhil",
+      "phoneno": "456789",
+      "fees": "No",
+      "gender": "Male",
+      "department": "BCA",
+      "id": 5
+    }
+  ]
+}
